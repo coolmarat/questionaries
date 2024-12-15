@@ -46,8 +46,8 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
                       (context, index, percentThresholdX, percentThresholdY) {
                     return Container(
                       margin: const EdgeInsets.symmetric(
-                        horizontal: 25,
-                        vertical: 15,
+                        horizontal: 8,
+                        vertical: 8,
                       ),
                       decoration: BoxDecoration(
                         color: cardColors[index],

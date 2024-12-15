@@ -84,7 +84,7 @@ class _TopicsScreenState extends State<TopicsScreen>
               itemBuilder: (context, index) {
                 return Padding(
                   padding: const EdgeInsets.symmetric(
-                    horizontal: 16,
+                    horizontal: 8,
                     vertical: 8,
                   ),
                   child: AnimatedTopicCard(
