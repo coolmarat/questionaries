@@ -58745,7 +58745,7 @@ return B.c.aH(r,s)},
 $S:392}
 A.Bb.prototype={
 S(a){var s=null
-return new A.ry(B.L8,"Questionaries COOL",A.a7i(s,A.a9g(B.N,s,s,B.Cn),!0),s)}}
+return new A.ry(B.L8,"Questionaries v2",A.a7i(s,A.a9g(B.N,s,s,B.Cn),!0),s)}}
 A.lS.prototype={}
 A.Z2.prototype={
 $1(a){a.j(0,"id")
